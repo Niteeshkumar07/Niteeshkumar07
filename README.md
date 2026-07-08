@@ -1,226 +1,181 @@
 <div align="center">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
-  
-  <br />
-  
-  <img src="https://demolab.com" alt="Typing Animation" />
 
-  <br />
+<img src="https://capsule-render.com/api?type=waving&height=250&color=0:0A0E27,50:16213E,100:0F3460&text=Niteesh%20Kumar&fontSize=46&fontColor=48CAE4&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20QA%20Automation&descAlignY=55&descSize=17&descColor=90E0EF" width="100%"/>
 
-  [![Degree](https://shields.io)](#)
-  [![Location](https://shields.io)](#)
-  [![Portfolio](https://shields.io)](#)
-  [![LinkedIn](https://shields.io)](#)
-  [![Email](https://shields.io)](#)
-  
-  <br />
+<a href="https://github.com/Niteeshkumar07">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;SDET+%7C+QA+Automation+Engineer;Building+clean%2C+scalable+systems;Open+to+opportunities&font=Fira+Code&center=true&width=560&height=50&color=48CAE4&vCenter=true&size=23&pause=1200&background=00000000"/>
+</a>
 
-  [![Views](https://githubusercontent.com)](#)
-  [![Followers](https://shields.io)](#)
-  [![Stars](https://shields.io)](#)
+<br/><br/>
+
+![GitHub followers](https://img.shields.io/github/followers/Niteeshkumar07?label=Followers&style=for-the-badge&color=0F3460&labelColor=0A0E27&logo=github&logoColor=48CAE4)
+![Profile Views](https://komarev.com/ghpvc/?username=Niteeshkumar07&label=Profile%20Views&style=for-the-badge&color=0F3460&logo=googleanalytics&logoColor=48CAE4)
+
+<a href="https://github.com/Niteeshkumar07">
+  <img src="https://img.shields.io/badge/GitHub-Niteeshkumar07-0F3460?style=for-the-badge&logo=github&logoColor=48CAE4&labelColor=0A0E27"/>
+</a>
+
 </div>
 
----
+<img src="https://capsule-render.com/api?type=rect&color=0:0A0E27,100:0F3460&height=3&section=header" width="100%"/>
 
-## 🏎️ About Me
+<br/>
 
-I am an enterprise-grade software engineer with a product-driven mindset, building software systems with the precision, aerodynamics, and power of a modern hypercar. My focus lies at the intersection of full-stack scalability and rigorous AI/ML infrastructure.
+## 🌊 About Me
 
-*   **Software Engineering:** Designing low-latency, modular distributed systems.
-*   **AI/ML Expertise:** Building, fine-tuning, and deploying high-throughput neural architectures.
-*   **Full Stack Development:** Crafting pixel-perfect, highly optimized user experiences.
-*   **Product Engineering:** Transforming architectural blueprints into production-ready platforms.
+<table align="center">
+<tr>
+<td>
 
-🏎️ **Open To:** Senior Engineering Roles, Core AI Infra Initiatives, and High-Performance Open-Source Collaborations.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev" alt="Languages" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev" alt="Frontend" />
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev" alt="Backend and DB" />
-</p>
-
-### Cloud, DevOps & Tooling
-<p align="left">
-  <img src="https://skillicons.dev" alt="DevOps" />
-</p>
-
----
-
-## 🧠 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Deep Learning & NLP** | Advanced / Production | Transformers, LLM fine-tuning (LoRA, QLoRA), BERT architectures |
-| **Computer Vision** | Expert | Real-time object detection (YOLOv8), image segmentation, OpenCV |
-| **MLOps & Pipeline Design** | Advanced | Distributed training, Kubeflow, MLflow, Triton Inference Server |
-| **Data Architecture** | Senior | Vector databases (Milvus, Pinecone), Spark streaming, ETL automation |
-
----
-
-## 🚘 Featured Projects
-
-<details>
-<summary><b>⚡ ApexDrive: Autonomous Telemetry Engine</b></summary>
-<br />
-
-> Real-time streaming analytics platform processing millions of sensor messages per second with minimal latency overhead.
-
-| Aspect | Engineering Specification |
-| :--- | :--- |
-| **Stack** | Rust, Apache Kafka, ScyllaDB, WebSockets |
-| **Scale** | 500k+ concurrent data streams, 2.5B monthly network packets |
-| **Performance** | Sub-10ms end-to-end ingestion and processing latency |
-| **Security** | TLS 1.3 encryption, OAuth2 machine-to-machine validation |
-| **Impact** | Optimized data pipeline operational overhead by 42% |
-| **Repository** | [://github.com](#) |
-
-Designed and implemented a custom memory-mapped ring buffer structure in Rust to handle sudden network spikes without dropping sensor logs. Engineered the serialization format using Protocol Buffers to maintain minimal payload footprint across external edges.
-</details>
-
-<details>
-<summary><b>🔋 HyperCharge: AI Grid Allocator</b></summary>
-<br />
-
-> Predictive machine learning infrastructure optimizing power distribution networks across smart charging hubs.
-
-| Aspect | Engineering Specification |
-| :--- | :--- |
-| **Stack** | Python, PyTorch, FastAPI, Docker, PostgreSQL |
-| **Scale** | Deployed across 1,200 grid nodes with continuous inference |
-| **Performance** | 98.4% allocation prediction accuracy under peak load |
-| **Security** | Role-Based Access Control (RBAC), isolated API gateways |
-| **Impact** | Prevented localized grid bottlenecks by 31% over 180 days |
-| **Repository** | [://github.com](#) |
-
-Developed a localized temporal graph neural network (GNN) to forecast high-demand consumption windows. Integrated continuous training pipelines via automated GitHub Actions triggers to update network weights dynamically based on historical telemetry.
-</details>
-
----
-
-## 💼 Experience
-
-### Senior Software Engineer | Shift Digital
-*January 2024 — Present*
-*   Architected core telemetry systems processing enterprise-scale payload streams across multi-region cloud clusters.
-*   Spearheaded migration of legacy batch processes to event-driven streaming structures, reducing overall infrastructure spend by 28%.
-*   Mentored 6 junior and mid-level engineers on microservices development and clean coding patterns in TypeScript and Go.
-`Go` `TypeScript` `Apache Kafka` `AWS` `Kubernetes`
-
-### AI Infrastructure Engineer | Velocity Labs
-*March 2022 — December 2023*
-*   Built and managed large-scale Triton Inference Server instances handling text and image models.
-*   Automated distributed deep learning training pipelines over Kubernetes GPU workloads, maximizing cluster usage by 35%.
-*   Designed low-latency vector indexing solutions for real-time semantic searching capabilities.
-`Python` `PyTorch` `Docker` `Vector DB` `Triton`
-
----
-
-## 🏆 Achievements
-
-| Recognition | Details |
-| :---: | :--- |
-| **1st Place Winner** | Global High-Performance Computing Automotive Hackathon (2025) |
-| **Top Contributor** | Recognized core open-source engine driver for enterprise telemetry frameworks (2024) |
-
----
-
-## 📜 Certifications
-
-### Amazon Web Services
-*   [![AWS Solutions Architect](https://shields.io)](#)
-*   [![AWS Machine Learning](https://shields.io)](#)
-
-### Oracle
-*   [![Oracle Java EE](https://shields.io)](#)
-
-### NPTEL
-*   [![NPTEL Deep Learning](https://shields.io)](#)
-
-### Cisco
-*   [![CCNA](https://shields.io)](#)
-
----
-
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="#"><img src="https://shields.io" alt="LeetCode" /></a>
-  <a href="#"><img src="https://shields.io" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://shields.io" alt="HackerRank" /></a>
-  <a href="#"><img src="https://shields.io" alt="CodeChef" /></a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Streak Stats" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="350px" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://vercel.app" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://vercel.app" alt="Contribution Graph" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://githubusercontent.com" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - CUDA Kernel Optimization
-  - Advanced Aerodynamics Telemetry Pipelines
-Building:
-  - Distributed GPU Orchestrator for Edge Nodes
-Exploring:
-  - Quantum Machine Learning Models
-Open To:
-  - Enterprise Engineering Systems Consulting
+```
+┌─────────────────────────────────────────────────────┐
+│  const developer = {                                 │
+│    name: "Niteesh Kumar",                            │
+│    role: "Backend Developer / SDET",                 │
+│    education: "B.Tech CSE — CGPA 9.17",              │
+│    currentFocus: [                                   │
+│      "Java", "Spring Boot", "Databases",              │
+│      "Test Automation", "REST APIs"                   │
+│    ],                                                │
+│    mindset: "Clean code. Scalable systems.",         │
+│    openTo: [                                         │
+│      "Backend Developer roles",                      │
+│      "SDET / QA Automation roles",                   │
+│      "Collaborative engineering projects"            │
+│    ]                                                 │
+│  };                                                  │
+└─────────────────────────────────────────────────────┘
 ```
 
----
+</td>
+</tr>
+</table>
 
-## 🤝 Connect With Me
+<br/>
+
+## 🌊 Tech Stack
 
 <div align="center">
-  <a href="mailto:email@example.com">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,py,js,html,css,spring,mysql,mongodb,git,github,jenkins,linux,postman,selenium,jira,idea&theme=dark" />
+
+<br/><br/>
+
+![Hibernate](https://img.shields.io/badge/Hibernate-0F3460?style=for-the-badge&logo=hibernate&logoColor=48CAE4&labelColor=0A0E27)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-0F3460?style=for-the-badge&logo=spring&logoColor=48CAE4&labelColor=0A0E27)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F3460?style=for-the-badge&logo=fastapi&logoColor=48CAE4&labelColor=0A0E27)
+![Swagger](https://img.shields.io/badge/Swagger-0F3460?style=for-the-badge&logo=swagger&logoColor=48CAE4&labelColor=0A0E27)
+![JMeter](https://img.shields.io/badge/JMeter-0F3460?style=for-the-badge&logo=apache&logoColor=48CAE4&labelColor=0A0E27)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-0F3460?style=for-the-badge&logo=robotframework&logoColor=48CAE4&labelColor=0A0E27)
+![Allure Reports](https://img.shields.io/badge/Allure_Reports-0F3460?style=for-the-badge&logo=qameta&logoColor=48CAE4&labelColor=0A0E27)
+![Maven](https://img.shields.io/badge/Maven-0F3460?style=for-the-badge&logo=apachemaven&logoColor=48CAE4&labelColor=0A0E27)
+
+<br/>
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-16213E?style=for-the-badge&logo=openai&logoColor=90E0EF&labelColor=0A0E27)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-16213E?style=for-the-badge&logo=openai&logoColor=90E0EF&labelColor=0A0E27)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-16213E?style=for-the-badge&logo=anthropic&logoColor=90E0EF&labelColor=0A0E27)
+![DSA](https://img.shields.io/badge/DSA-16213E?style=for-the-badge&logo=leetcode&logoColor=90E0EF&labelColor=0A0E27)
+![OOP](https://img.shields.io/badge/OOP-16213E?style=for-the-badge&logo=codeforces&logoColor=90E0EF&labelColor=0A0E27)
+![Agile](https://img.shields.io/badge/Agile-16213E?style=for-the-badge&logo=agile&logoColor=90E0EF&labelColor=0A0E27)
+
+</div>
+
+<img src="https://capsule-render.com/api?type=rect&color=0:0A0E27,100:0F3460&height=3" width="100%"/>
+
+<br/>
+
+## 🌊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Niteeshkumar07&show_icons=true&theme=react&hide_border=true&bg_color=0A0E27&title_color=48CAE4&icon_color=90E0EF&text_color=CAD3E0" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niteeshkumar07&theme=react&hide_border=true&background=0A0E27&ring=48CAE4&fire=90E0EF&currStreakLabel=90E0EF&sideLabels=CAD3E0&currStreakNum=CAD3E0&sideNums=CAD3E0&dates=6B7B9C" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteeshkumar07&layout=compact&theme=react&hide_border=true&bg_color=0A0E27&title_color=48CAE4&text_color=CAD3E0" width="49%"/>
+
+</div>
+
+<br/>
+
+## 🌊 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Niteeshkumar07&theme=nord&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+<img src="https://capsule-render.com/api?type=rect&color=0:0A0E27,100:0F3460&height=3" width="100%"/>
+
+<br/>
+
+## 🌧️ Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Niteeshkumar07&theme=react-dark&hide_border=true&bg_color=0A0E27&color=48CAE4&line=90E0EF&point=CAD3E0" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Niteeshkumar07/Niteeshkumar07/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚠️ **One-time setup needed** for the snake to actually move through your empty contribution squares — add the workflow file below to your repo (details in the message under this file).
+
+<img src="https://capsule-render.com/api?type=rect&color=0:0A0E27,100:0F3460&height=3" width="100%"/>
+
+<br/>
+
+## 🌊 Current Focus
+
+<table align="center">
+<tr>
+<td>
+
+```yaml
+learning:
+  - Advanced Spring Boot & microservices concepts
+  - Database optimization & schema design
+  - Test automation frameworks at scale
+building:
+  - Backend systems with Java & Spring Boot
+  - Automated test suites with Selenium & Robot Framework
+exploring:
+  - System design fundamentals
+  - Agentic AI & MCP-driven tooling
+open_to:
+  - Backend Developer opportunities
+  - SDET / QA Automation opportunities
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🌊 Connect
+
+<div align="center">
+
+<a href="https://github.com/Niteeshkumar07">
+  <img src="https://img.shields.io/badge/GitHub-Niteeshkumar07-0F3460?style=for-the-badge&logo=github&logoColor=48CAE4&labelColor=0A0E27"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"Consistency compounds — one commit at a time."*
+
+<img src="https://capsule-render.com/api?type=waving&height=150&color=0:0F3460,50:16213E,100:0A0E27&section=footer"/>
+
+</div>
